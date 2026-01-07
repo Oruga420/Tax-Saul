@@ -1,0 +1,5 @@
+{
+  "name": "Tax Saul - Aggressive Tax Assistant",
+  "description": "A 'Better Call Saul' inspired tax assistant for USA, Canada, and Mexico. Finds every loophole and deduction legally possible using Gemini 3 Pro with Vision and Web Search capabilities.",
+  "requestFramePermissions": []
+}
