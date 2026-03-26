@@ -50,7 +50,7 @@ const FileUploader: React.FC<FileUploaderProps> = ({ attachments, setAttachments
         ref={fileInputRef}
         onChange={handleFileChange}
         className="hidden"
-        accept="image/*,video/*,application/pdf"
+        accept="image/*,application/pdf"
       />
 
       {/* Button */}
