@@ -172,7 +172,7 @@ const App: React.FC = () => {
             </button>
           </div>
           <div className="text-center mt-2 text-[10px] text-slate-400">
-            Powered by Gemini 3 Pro • Updates tax codes in real-time
+            Powered by Claude Opus 4.6
           </div>
         </div>
       </footer>
